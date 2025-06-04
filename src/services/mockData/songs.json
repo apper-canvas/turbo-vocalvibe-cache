@@ -1,0 +1,230 @@
+[
+  {
+    "id": "1",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "duration": 355,
+    "genre": "Rock",
+    "youtubeId": "fJ9rUzIMcZQ",
+    "spotifyId": "4u7EnebtmKWzUH433cf5Qv",
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Is this the real life?", "startTime": 10, "endTime": 14},
+      {"text": "Is this just fantasy?", "startTime": 14, "endTime": 18},
+      {"text": "Caught in a landslide", "startTime": 18, "endTime": 22},
+      {"text": "No escape from reality", "startTime": 22, "endTime": 26},
+      {"text": "Open your eyes", "startTime": 26, "endTime": 30},
+      {"text": "Look up to the skies and see", "startTime": 30, "endTime": 35}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Don't Stop Believin'",
+    "artist": "Journey",
+    "album": "Escape",
+    "duration": 251,
+    "genre": "Rock",
+    "youtubeId": "1k8craCGpgs",
+    "spotifyId": "4bHsxqR3GMrXTxEPLuK5ue",
+    "albumArt": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Just a small town girl", "startTime": 15, "endTime": 19},
+      {"text": "Living in a lonely world", "startTime": 19, "endTime": 23},
+      {"text": "She took the midnight train", "startTime": 23, "endTime": 27},
+      {"text": "Going anywhere", "startTime": 27, "endTime": 31},
+      {"text": "Just a city boy", "startTime": 31, "endTime": 35},
+      {"text": "Born and raised in South Detroit", "startTime": 35, "endTime": 40}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Sweet Caroline",
+    "artist": "Neil Diamond",
+    "album": "Brother Love's Travelling Salvation Show",
+    "duration": 203,
+    "genre": "Pop",
+    "youtubeId": "1vhFnTjia_I",
+    "spotifyId": "5l6K9pCCPMR4ZWaDN9Zs9C",
+    "albumArt": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Where it began", "startTime": 8, "endTime": 12},
+      {"text": "I can't begin to knowing", "startTime": 12, "endTime": 16},
+      {"text": "But then I know it's growing strong", "startTime": 16, "endTime": 22},
+      {"text": "Was in the spring", "startTime": 22, "endTime": 26},
+      {"text": "And spring became the summer", "startTime": 26, "endTime": 30},
+      {"text": "Who'd have believed you'd come along", "startTime": 30, "endTime": 36}
+    ]
+  },
+  {
+    "id": "4",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "album": "Love Tracks",
+    "duration": 198,
+    "genre": "Disco",
+    "youtubeId": "gYkACVDFmeg",
+    "spotifyId": "3Lm9qwGCsKsjiqVyZJCMJ9",
+    "albumArt": "https://images.unsplash.com/photo-1571173069043-64abf8ade2b8?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "At first I was afraid", "startTime": 5, "endTime": 9},
+      {"text": "I was petrified", "startTime": 9, "endTime": 13},
+      {"text": "Kept thinking I could never live", "startTime": 13, "endTime": 17},
+      {"text": "Without you by my side", "startTime": 17, "endTime": 21},
+      {"text": "But then I spent so many nights", "startTime": 21, "endTime": 25},
+      {"text": "Thinking how you did me wrong", "startTime": 25, "endTime": 29}
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "album": "Slippery When Wet",
+    "duration": 249,
+    "genre": "Rock",
+    "youtubeId": "lDK9QqIzhwk",
+    "spotifyId": "37ZJ0p5Jm13JPevGcx4SkF",
+    "albumArt": "https://images.unsplash.com/photo-1566737236500-c8ac43014a8e?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Tommy used to work on the docks", "startTime": 12, "endTime": 16},
+      {"text": "Union's been on strike", "startTime": 16, "endTime": 20},
+      {"text": "He's down on his luck", "startTime": 20, "endTime": 24},
+      {"text": "It's tough, so tough", "startTime": 24, "endTime": 28},
+      {"text": "Gina works the diner all day", "startTime": 28, "endTime": 32},
+      {"text": "Working for her man", "startTime": 32, "endTime": 36}
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "album": "(What's the Story) Morning Glory?",
+    "duration": 258,
+    "genre": "Alternative Rock",
+    "youtubeId": "bx1Bh8ZvH84",
+    "spotifyId": "5wj4E6IsrVtn6vCRZkVkTx",
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Today is gonna be the day", "startTime": 8, "endTime": 12},
+      {"text": "That they're gonna throw it back to you", "startTime": 12, "endTime": 16},
+      {"text": "By now you should've somehow", "startTime": 16, "endTime": 20},
+      {"text": "Realized what you gotta do", "startTime": 20, "endTime": 24},
+      {"text": "I don't believe that anybody", "startTime": 24, "endTime": 28},
+      {"text": "Feels the way I do about you now", "startTime": 28, "endTime": 34}
+    ]
+  },
+  {
+    "id": "7",
+    "title": "My Way",
+    "artist": "Frank Sinatra",
+    "album": "My Way",
+    "duration": 275,
+    "genre": "Jazz",
+    "youtubeId": "qQzdAsjWGPg",
+    "spotifyId": "3spdoTYpuCpmq19tuD0bOe",
+    "albumArt": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "And now, the end is near", "startTime": 10, "endTime": 14},
+      {"text": "And so I face the final curtain", "startTime": 14, "endTime": 18},
+      {"text": "My friend, I'll say it clear", "startTime": 18, "endTime": 22},
+      {"text": "I'll state my case, of which I'm certain", "startTime": 22, "endTime": 28},
+      {"text": "I've lived a life that's full", "startTime": 28, "endTime": 32},
+      {"text": "I traveled each and every highway", "startTime": 32, "endTime": 38}
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "album": "Thriller",
+    "duration": 294,
+    "genre": "Pop",
+    "youtubeId": "Zi_XLOBDo_Y",
+    "spotifyId": "5ChkMS8OtdzJeqyybCc9R5",
+    "albumArt": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Billie Jean is not my lover", "startTime": 15, "endTime": 19},
+      {"text": "She's just a girl who claims", "startTime": 19, "endTime": 23},
+      {"text": "That I am the one", "startTime": 23, "endTime": 27},
+      {"text": "But the kid is not my son", "startTime": 27, "endTime": 31},
+      {"text": "She says I am the one", "startTime": 31, "endTime": 35},
+      {"text": "But the kid is not my son", "startTime": 35, "endTime": 39}
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Piano Man",
+    "artist": "Billy Joel",
+    "album": "Piano Man",
+    "duration": 335,
+    "genre": "Pop Rock",
+    "youtubeId": "gxEPV4kolz0",
+    "spotifyId": "70C4NyhjD5OZUMzvWZ3njJ",
+    "albumArt": "https://images.unsplash.com/photo-1571173069043-64abf8ade2b8?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "It's nine o'clock on a Saturday", "startTime": 12, "endTime": 16},
+      {"text": "The regular crowd shuffles in", "startTime": 16, "endTime": 20},
+      {"text": "There's an old man sitting next to me", "startTime": 20, "endTime": 24},
+      {"text": "Making love to his tonic and gin", "startTime": 24, "endTime": 28},
+      {"text": "He says, \"Son, can you play me a memory?\"", "startTime": 28, "endTime": 34},
+      {"text": "\"I'm not really sure how it goes\"", "startTime": 34, "endTime": 38}
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Total Eclipse of the Heart",
+    "artist": "Bonnie Tyler",
+    "album": "Faster Than the Speed of Night",
+    "duration": 423,
+    "genre": "Pop Rock",
+    "youtubeId": "lcOxhH8N3Bo",
+    "spotifyId": "1p80LdxRV74UKvL8gnD7ky",
+    "albumArt": "https://images.unsplash.com/photo-1566737236500-c8ac43014a8e?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Turn around, bright eyes", "startTime": 20, "endTime": 24},
+      {"text": "Every now and then I fall apart", "startTime": 24, "endTime": 28},
+      {"text": "Turn around, bright eyes", "startTime": 28, "endTime": 32},
+      {"text": "Every now and then I fall apart", "startTime": 32, "endTime": 36},
+      {"text": "And I need you now tonight", "startTime": 36, "endTime": 40},
+      {"text": "And I need you more than ever", "startTime": 40, "endTime": 44}
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Don't Stop Me Now",
+    "artist": "Queen",
+    "album": "Jazz",
+    "duration": 209,
+    "genre": "Rock",
+    "youtubeId": "HgzGwKwLmgM",
+    "spotifyId": "5T8EDUDqKcs6OSOwEsfqG7",
+    "albumArt": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Tonight I'm gonna have myself", "startTime": 5, "endTime": 9},
+      {"text": "A real good time", "startTime": 9, "endTime": 13},
+      {"text": "I feel alive", "startTime": 13, "endTime": 17},
+      {"text": "And the world I'll turn it inside out", "startTime": 17, "endTime": 21},
+      {"text": "I'm floating around in ecstasy", "startTime": 21, "endTime": 25},
+      {"text": "So don't stop me now", "startTime": 25, "endTime": 29}
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Eye of the Tiger",
+    "artist": "Survivor",
+    "album": "Eye of the Tiger",
+    "duration": 245,
+    "genre": "Rock",
+    "youtubeId": "btPJPFnesV4",
+    "spotifyId": "2HHtWyy5CgaQbC7XSoOb0e",
+    "albumArt": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&h=300&fit=crop",
+    "lyrics": [
+      {"text": "Rising up, back on the street", "startTime": 8, "endTime": 12},
+      {"text": "Did my time, took my chances", "startTime": 12, "endTime": 16},
+      {"text": "Went the distance, now I'm back on my feet", "startTime": 16, "endTime": 20},
+      {"text": "Just a man and his will to survive", "startTime": 20, "endTime": 24},
+      {"text": "So many times it happens too fast", "startTime": 24, "endTime": 28},
+      {"text": "You trade your passion for glory", "startTime": 28, "endTime": 32}
+    ]
+  }
+]

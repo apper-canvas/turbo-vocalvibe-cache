@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "songId": "1",
+    "timestamp": "2024-01-15T14:30:00Z",
+    "duration": 355,
+    "audioBlob": null,
+    "score": 87,
+    "effects": ["reverb", "pitch_correction"]
+  },
+  {
+    "id": "2",
+    "songId": "2",
+    "timestamp": "2024-01-15T15:45:00Z",
+    "duration": 251,
+    "audioBlob": null,
+    "score": 92,
+    "effects": ["echo"]
+  },
+  {
+    "id": "3",
+    "songId": "3",
+    "timestamp": "2024-01-15T16:20:00Z",
+    "duration": 203,
+    "audioBlob": null,
+    "score": 78,
+    "effects": ["reverb"]
+  },
+  {
+    "id": "4",
+    "songId": "4",
+    "timestamp": "2024-01-15T17:10:00Z",
+    "duration": 198,
+    "audioBlob": null,
+    "score": 95,
+    "effects": ["pitch_correction", "auto_tune"]
+  },
+  {
+    "id": "5",
+    "songId": "5",
+    "timestamp": "2024-01-15T18:30:00Z",
+    "duration": 249,
+    "audioBlob": null,
+    "score": 84,
+    "effects": ["reverb", "echo"]
+  },
+  {
+    "id": "6",
+    "songId": "6",
+    "timestamp": "2024-01-15T19:15:00Z",
+    "duration": 258,
+    "audioBlob": null,
+    "score": 89,
+    "effects": ["pitch_correction"]
+  },
+  {
+    "id": "7",
+    "songId": "7",
+    "timestamp": "2024-01-15T20:00:00Z",
+    "duration": 275,
+    "audioBlob": null,
+    "score": 91,
+    "effects": ["reverb", "pitch_correction", "echo"]
+  },
+  {
+    "id": "8",
+    "songId": "8",
+    "timestamp": "2024-01-15T21:30:00Z",
+    "duration": 294,
+    "audioBlob": null,
+    "score": 86,
+    "effects": ["auto_tune"]
+  },
+  {
+    "id": "9",
+    "songId": "9",
+    "timestamp": "2024-01-15T22:45:00Z",
+    "duration": 335,
+    "audioBlob": null,
+    "score": 93,
+    "effects": ["reverb", "pitch_correction"]
+  },
+  {
+    "id": "10",
+    "songId": "10",
+    "timestamp": "2024-01-16T10:15:00Z",
+    "duration": 423,
+    "audioBlob": null,
+    "score": 88,
+    "effects": ["echo", "reverb"]
+  }
+]
