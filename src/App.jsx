@@ -26,13 +26,10 @@ function App() {
       {/* Header */}
       <header className="relative z-50 bg-black/80 backdrop-blur-md border-b border-gray-800">
         <div className="container mx-auto px-4 py-4">
-          <div className="flex items-center justify-between">
+<div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <div className="w-10 h-10 bg-gradient-to-br from-primary to-secondary rounded-xl flex items-center justify-center shadow-neon">
-<Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
+                <ApperIcon name="Mic" className="w-6 h-6 text-white" />
               </div>
               <h1 className="text-2xl font-heading font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
                 VocalVibe
@@ -53,13 +50,12 @@ function App() {
       </header>
 
       {/* Main Content */}
-      <main className="relative">
+<main className="relative">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<HomePage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
-
       {/* Toast Container */}
       <ToastContainer
         position="bottom-right"
